@@ -33,7 +33,7 @@ Immediately push to GitHub and create a PR in your repo (Not OCS's) for the feat
 
 Work through this one feature--stay focused on just this task.
 
-## Merging & Deploying
+## Merging
 
 When you are 100% complete with a task, here are the steps for merging it into 'master' and deploying:
 
