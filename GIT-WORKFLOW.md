@@ -35,7 +35,7 @@ Work through this one feature--stay focused on just this task.
 
 ## Merging
 
-When you are 100% complete with a task, here are the steps for merging it into 'master' and deploying:
+When you are 100% complete with a task, here are the steps for merging it into 'master':
 
 1. Make sure everything for the task is completed and committed; and that you have pushed the feature branch to GitHub.
   - `git status` should show a clean working directory. If it doesn't, do not proceed further.
