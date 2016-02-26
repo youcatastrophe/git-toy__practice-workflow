@@ -47,5 +47,5 @@ When you are 100% complete with a task, here are the steps for merging it into '
 4. Switch to the 'master branch'. Then...
   - `git merge name-of-feature-branch` to merge the feature into 'master'.
   - `git push`
-5. Now check the PR for this issue. It should indicate that its code has been merged. You can 'close' the PR.
+5. Now check the PR for this issue. It should indicate that its code has been merged. It probably auto-closed the issue. If not, you can 'close' the PR. Either way, you may choose to delete the branch from GitHub after the PR is closed.
 6. Update your list of tasks in GitHub Issues.
