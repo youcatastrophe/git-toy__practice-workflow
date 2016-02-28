@@ -1,0 +1,3 @@
+#If you had intro music, what song would it be? Why?
+
+If I had intro music for every time I walked into a room, I think I would choose my intro song to be "I Want You Back" by Jackson 5 because I don't know how a single person in the world can't be put in a better mood upon hearing this song. I've always said that if a movie includes this song at the end, you know the movie had a happy ending (or any scene, really, that includes this song is pretty much automatically going to be a happy scene). It really is as simple as that.
