@@ -1,0 +1,3 @@
+#What were you really into when you were a kid?
+
+As a kid, I had all sorts of phases and obsessions. The phase (and definitely an obsession) that I remember most is probably my dinosaur phase. I was *really* into dinosaurs. I mean, what kid doesn't like dinosaurs? But I didn't just *like* them, I was crazy abou them. I read books upon books about dinosaurs. I probably checked out every book in the library I could find on the subject. My favorite books were those of the encyclopedic nature; ones that contained the dinosaur name, a picture (of course!) and information about that species. More than that, I loved to *draw* dinosaurs! My favorite activity was to sit around drawing every type of dinosaur I knew about!
