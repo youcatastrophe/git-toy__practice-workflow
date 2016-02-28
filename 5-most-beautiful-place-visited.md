@@ -1,0 +1,3 @@
+#Where is the most beautiful place you have been?
+
+The most beautiful place in the world that I have been is probably Innsbruck, Austria. That said, I haven't been to many places in the world, and the places I really want to visit someday are probably even *more* beautiful. Anyway, I loved Innsbruck and wish I coulds've spent more time than I did when I was there (I was touring with a college choir at the time). The Alps are especially beautiful in that area!
